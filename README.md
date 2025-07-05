@@ -38,7 +38,7 @@ My goal is to build interactive experiences and solve interesting problems with 
   <a href="https://github.com/Sagitoaz">
     <img src="https://img.shields.io/github/followers/Sagitoaz?label=Followers&style=social" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/trung-nguy%E1%BB%85n-b4480a36a/)">
+  <a href="https://www.linkedin.com/in/trung-nguy%E1%BB%85n-b4480a36a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:trung241az@gmail.com">
